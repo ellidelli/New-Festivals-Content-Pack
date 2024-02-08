@@ -1,0 +1,11 @@
+{
+  "Name": "[CP]NewFestivals",
+  "Author": "Ellie Delea",
+  "Version": "1.0.0",
+  "Description": "Content packs for New Festivals.",
+  "UniqueID": "EllieDelea.CPNewFestivals",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

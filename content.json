@@ -1,0 +1,10 @@
+{
+  "Format": "1.30.4",
+
+  "CustomLocations": [
+    {
+      "Name": "Custom_TrickOrTreat",
+      "FromMapFile": "assets/Town.tmx"
+    }
+  ]
+}
